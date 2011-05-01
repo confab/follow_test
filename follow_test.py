@@ -56,7 +56,7 @@ def game():
     home_rect = home_rect.move(100, 100)
     ant_one_rect = ant_one_rect.move(250, 250)
     ant_two_rect = ant_two_rect.move(350, 350)
-    food_rect = food_rect.move(500, 500)
+    food_rect = food_rect.move(450, 450)
     
     home_center = home_rect.center
     food_center = food_rect.center
